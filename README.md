@@ -45,17 +45,3 @@ The application reads an XML file (records.xml), processes its records, and save
 - Invalid records → invalid_records.txt
 - Logging → application.log
 
-
-Example XML File:
-<person>
-      <firstNames>hee</firstNames>
-      <lastName>beatty</lastName>
-      <dateOfBirth>####</dateOfBirth>
-      <address>
-        <buildingNumber>####</buildingNumber>
-        <streetName>Elbert Mill</streetName>
-        <town>Nicolaschester</town>
-      </address>
-      <yearsAtAddress type="integer">15</yearsAtAddress>
-      <passportNumber>#####</passportNumber>
-    </person>
