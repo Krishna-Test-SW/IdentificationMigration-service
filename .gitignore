@@ -1,0 +1,15 @@
+# Ignore Eclipse IDE files
+.project
+.classpath
+.settings/
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore NetBeans IDE files
+nbproject/
+
+# Ignore build output directories
+/target/
+/bin/
